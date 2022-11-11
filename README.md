@@ -1,16 +1,15 @@
-### Hi, I'm André
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96DED1&height=120&section=header"/>
 
-📫 How to reach me: nikumu@engineer.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Present+Day...;Present+Time!)](https://git.io/typing-svg)
 
-[![nikumu's github stats](https://github-readme-stats.vercel.app/api?username=nikumu&show_icons=true&theme=vue-dark)](https://github.com/nikumu/github-readme-stats)
+[![nikumu's github stats](https://github-readme-stats.vercel.app/api?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumu&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/nikumu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumu&show_icons=true&theme=vue&layout=compact)](https://github.com/nikumu/github-readme-stats)
 
-[![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue-dark)](https://github.com/nikumu/github-readme-stats)
+[![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
 <div> 
   <a href="https://www.linkedin.com/in/nikumu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 <!-- ![snake gif](https://github.com/nikumu/nikumu/blob/output/github-contribution-grid-snake.svg) -->
