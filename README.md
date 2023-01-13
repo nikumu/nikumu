@@ -14,9 +14,9 @@
         <a href="mailto:andrecarlosbb@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>  
  
-[![nikumu's github stats](https://github-readme-stats.vercel.app/api?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
+<!--[![nikumu's github stats](https://github-readme-stats.vercel.app/api?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumu&show_icons=true&theme=vue&layout=compact)](https://github.com/nikumu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikumu&show_icons=true&theme=vue&layout=compact)](https://github.com/nikumu/github-readme-stats)-->
 
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
       <p>
