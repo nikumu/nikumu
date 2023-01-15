@@ -5,22 +5,23 @@
 &nbsp;
 
 <hr>
-<p align="center">
+<h2 align='center'>
 
-# Hi, I'm André 👋
+Hi, I'm André 👋
 
-## 🌱 I’m currently learning React
+</h2>
 
-## 👯 I’m looking to collaborate on fun projects
+🌱 I’m currently learning React
 
-<a href="https://twitter.com/foobarfighters" target="_blank"><img alt="Twitter"
-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nikumu/" target="_blank"><img alt="LinkedIn"
-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:andrecarlosbb@gmail.com" target="_blank"><img alt="Gmail"
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>  
+👯 I’m looking to collaborate on fun projects
 
-</p>
+📫 How to reach me:
+
+<a href='https://t.me/nikumu2'><img align='left' src='https://user-images.githubusercontent.com/95641884/150675279-99fe82e3-896b-43f5-9f67-3e25970bdb94.png' alt='telegram' width='35px'/></a>
+<a href="https://www.linkedin.com/in/nikumu/"><img align='left' src ='https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png' alt='linkedin' width='35px'/></a>
+<a href="mailto:andrecarlosbb@gmail.com"><img src ='https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png' alt='gmail' width='35px'/></a>  
+
+
 <hr>
 
 <p align="center" dir="auto">
