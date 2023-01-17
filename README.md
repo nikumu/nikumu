@@ -11,7 +11,7 @@ Hi, I'm André 👋
 
 </h2>
 
-🌱 I’m currently learning React
+🌱 I’m currently learning Javascript and React
 
 👯 I’m looking to collaborate on fun projects
 
