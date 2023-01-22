@@ -42,7 +42,7 @@ I am André Bianchi, a web developer with 1 year of experience. I have a passion
 
 <h2>🧰 Languages and Tools</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,typescript,vue,react,nodejs,redux,bootstrap,mongodb,flutter,laravel,git,github,linux,vscode,java,c,cpp,dotnet,py,codepen,md,wordpress,tailwind," />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,typescript,vue,react,nodejs,redux,bootstrap,mongodb,flutter,laravel,git,github,linux,vscode,java,c,cpp,dotnet,py,codepen,md,wordpress,tailwind,ruby" />
 
 </p> 
 <hr>
