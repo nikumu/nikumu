@@ -13,6 +13,8 @@ Hi, devs 👋
 
 I am André Bianchi, a web developer with 1 year of experience. I have a passion for creating visually appealing and user-friendly websites. My skills include HTML, **CSS**, **JavaScript**, and various web development frameworks such as **React** and **Angular**. I am constantly learning and staying up to date with the latest web development technologies to improve my skills and deliver the best results for my clients. I am always looking for new challenges and opportunities to grow as a developer.
 
+🚀 I'm **Front end** Developer
+
 🌱 I’m interested in **web developer** and **machine learning**
 
 📚 I’m currently learning **Javascript** and **React**
