@@ -36,8 +36,6 @@ I am André Bianchi, a web developer with 1 year of experience. I have a passion
 
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=nikumu&style=for-the-badge&color=brightgreen)
-
 </p>
 
 <p align="center">
