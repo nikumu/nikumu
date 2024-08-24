@@ -44,5 +44,7 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,typescript,vue,react,nodejs,redux,bootstrap,mongodb,flutter,laravel,git,github,linux,vscode,java,c,cpp,dotnet,py,codepen,md,wordpress,tailwind,ruby" />
 
+![image](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 </p> 
 <hr>
