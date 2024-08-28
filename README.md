@@ -19,7 +19,7 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 📚 I’m currently learning **Java** and **PHP**
 
-👯 I’m looking to collaborate on fun projects
+🎯 I’m looking to collaborate on fun projects
 
 📫 **How to reach me:**
 
