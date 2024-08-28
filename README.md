@@ -15,7 +15,7 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 🚀 I'm **Front end** Developer
 
-🌱 I’m interested in **web developer** and **machine learning**
+🌱 I’m interested in **compilers**, **programming paradigms** and **machine learning**
 
 📚 I’m currently learning **Java** and **PHP**
 
