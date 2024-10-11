@@ -40,6 +40,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <a title="Mail" href="mailto:nikumu@engineer.com">
 <img height="28" width="28" src="https://cdn.simpleicons.org/maildotcom/4493f8" /></a>
 
+<a title="Wakatime" href="https://wakatime.com/@nikumu">
+<img height="28" width="28" src="https://cdn.simpleicons.org/wakatime/4493f8" /></a>
+
 </div>
 
 </br>
