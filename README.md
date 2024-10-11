@@ -58,13 +58,14 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 <hr>
 
-<p align="center" dir="auto">
+<div align="center">
+
 
 [![wakatime](https://wakatime.com/badge/user/b88bb920-40e6-4f06-8859-11e07f011583.svg)](https://wakatime.com/@b88bb920-40e6-4f06-8859-11e07f011583)
 
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
-</p>
+</div>
 
 <p align="center">
 
