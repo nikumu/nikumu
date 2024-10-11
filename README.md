@@ -34,6 +34,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <a title="LinkedIn" href="https://linkedin.com/in/nikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
 
+<a title="Telegram" href="https://t.me/nekonikumu">
+<img height="28" width="28" src="https://cdn.simpleicons.org/telegram/4493f8" /></a>
+
 </div>
 
 </br>
