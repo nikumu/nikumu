@@ -4,13 +4,10 @@
 
 &nbsp;
 
-<hr>
-<div align='center'>
+<div align='left'>
 
-Hi, devs 👋
+**Hi, devs** 👋
   
-</div>
-
 I am André Bianchi, a web developer with 2 years of experience. I have a passion for creating visually appealing and user-friendly websites. My skills include **HTML**, **CSS**, **JavaScript**, and various web development frameworks such as **React** and **Angular**. I am constantly learning and staying up to date with the latest web development technologies to improve my skills and deliver the best results for my clients. I am always looking for new challenges and opportunities to grow as a developer.
 
 🚀 I'm **Front end** Developer
@@ -21,7 +18,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 🎯 I’m looking to collaborate on fun projects
 
-<div align="center">
+</div>
+
+</br>
 
 📫 **How to reach me:**
   
@@ -55,10 +54,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <a href="https://www.linkedin.com/in/nikumu/"><img align='left' src ='https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png' alt='linkedin' width='35px'/></a>
 <a href="mailto:nikumu@engineer.com"><img src ='https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png' alt='gmail' width='35px'/></a>  -->
 
+</br>
 
-<hr>
-
-<div align="center">
+<div align="left">
   
 🖥️ **Wakatime Stats**
 
@@ -67,16 +65,21 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
 
 </div>
+</br>
 
-<div align="center">
+<div align="left">
   
 ⚡ **Github Stats**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikumu&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikumu&theme=algolia) 
+[![Nikumun's github stats](https://bad-apple-github-readme.vercel.app/api?username=nikumu&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=nikumu&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Nikumu's current streak](https://streak-stats.demolab.com/?user=nikumu&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 </div>
 
-<div align="center">
+<div align="leftr">
 
 🧰 **Languages and Tools**
 
