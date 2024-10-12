@@ -101,6 +101,6 @@ Here are a few of my projects:
 
 🧰 **Languages and Tools**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,typescript,vue,react,nodejs,redux,bootstrap,mongodb,flutter,laravel,git,github,linux,vscode,java,c,cpp,dotnet,py,codepen,md,wordpress,tailwind,ruby" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,typescript,react,nodejs,redux,bootstrap,mongodb,laravel,git,github,linux,vscode,java,py,codepen,md" />
 
 </div> 
