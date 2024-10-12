@@ -5,11 +5,11 @@
 &nbsp;
 
 <hr>
-<h2 align='center'>
+<div align='center'>
 
 Hi, devs 👋
   
-</h2>
+</div>
 
 I am André Bianchi, a web developer with 2 years of experience. I have a passion for creating visually appealing and user-friendly websites. My skills include **HTML**, **CSS**, **JavaScript**, and various web development frameworks such as **React** and **Angular**. I am constantly learning and staying up to date with the latest web development technologies to improve my skills and deliver the best results for my clients. I am always looking for new challenges and opportunities to grow as a developer.
 
@@ -21,9 +21,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 🎯 I’m looking to collaborate on fun projects
 
-📫 **How to reach me:**
-
 <div align="center">
+
+📫 **How to reach me:**
   
 <a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
 <img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
@@ -59,7 +59,8 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <hr>
 
 <div align="center">
-
+  
+🖥️ **Wakatime Stats**
 
 [![wakatime](https://wakatime.com/badge/user/b88bb920-40e6-4f06-8859-11e07f011583.svg)](https://wakatime.com/@b88bb920-40e6-4f06-8859-11e07f011583)
 
@@ -67,11 +68,18 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 </div>
 
-<p align="center">
+<div align="center">
+  
+⚡ **Github Stats**
 
-<h2>🧰 Languages and Tools</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikumu&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikumu&theme=algolia) 
+
+</div>
+
+<div align="center">
+
+🧰 **Languages and Tools**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,typescript,vue,react,nodejs,redux,bootstrap,mongodb,flutter,laravel,git,github,linux,vscode,java,c,cpp,dotnet,py,codepen,md,wordpress,tailwind,ruby" />
 
-</p> 
-<hr>
+</div> 
