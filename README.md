@@ -6,7 +6,7 @@
 
 <div align='left'>
 
-**Hi, devs** 👋
+### **Hi, devs** 👋
   
 I am André Bianchi, a web developer with 2 years of experience. I have a passion for creating visually appealing and user-friendly websites. My skills include **HTML**, **CSS**, **JavaScript**, and various web development frameworks such as **React** and **Angular**. I am constantly learning and staying up to date with the latest web development technologies to improve my skills and deliver the best results for my clients. I am always looking for new challenges and opportunities to grow as a developer.
 
@@ -18,13 +18,9 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 🎯 I’m looking to collaborate on fun projects
 
----
+<br>
 
-</div>
-
-</br>
-
-📫 **How to reach me:**
+### 📫 **How to reach me:**
   
 <a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
 <img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
@@ -47,11 +43,10 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <a title="DEV Community" href="https://dev.to/nikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
 
----
+<br>
+<br>
 
-</div>
-
-💡 **Projects**
+### 💡 **Projects**
 
 </a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
@@ -62,30 +57,21 @@ Here are a few of my projects:
 
 <br>
 
-⭐ **Support My Work**
+### ⭐ **Support My Work**
 
 If you enjoyed any of my projects or found them helpful, please consider giving a star on GitHub. It helps others discover my work and motivates me to keep creating! Thank you! ⭐
 
----
-
-</br>
-
-<div align="left">
+<br>
   
-🖥️ **Wakatime Stats**
+### 🖥️ **Wakatime Stats**
 
 [![wakatime](https://wakatime.com/badge/user/b88bb920-40e6-4f06-8859-11e07f011583.svg)](https://wakatime.com/@b88bb920-40e6-4f06-8859-11e07f011583)
 
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=blue-green)](https://github.com/nikumu/github-readme-stats)
 
----
+<br>
 
-</div>
-</br>
-
-<div align="left">
-  
-⚡ **Github Stats**
+### ⚡ **Github Stats**
 
 [![Nikumu's github stats](https://bad-apple-github-readme.vercel.app/api?username=nikumu&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
@@ -95,13 +81,9 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikumu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+<br>
 
-</div>
-
-<div align="leftr">
-
-🧰 **Languages and Tools**
+### 🧰 **Languages and Tools**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,typescript,react,nodejs,redux,bootstrap,mongodb,laravel,git,github,linux,vscode,java,py,codepen,md" />
 
