@@ -60,6 +60,8 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 
 💡 **Projects**
 
+</a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"></br>
+
 Here are a few of my projects:
 1. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
 2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme
