@@ -58,11 +58,16 @@ I am André Bianchi, a web developer with 2 years of experience. I have a passio
 <a href="https://www.linkedin.com/in/nikumu/"><img align='left' src ='https://user-images.githubusercontent.com/95641884/150675095-2e8e967f-2a14-413d-b870-21afd707b58d.png' alt='linkedin' width='35px'/></a>
 <a href="mailto:nikumu@engineer.com"><img src ='https://user-images.githubusercontent.com/95641884/150674766-be246e51-4970-4caf-b60a-b9cbc8fdd8a8.png' alt='gmail' width='35px'/></a>  -->
 
-⚙️ **Projects**
+💡 **Projects**
 
 Here are a few of my projects:
 1. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
 2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme
+3. **[Linkedin clone](https://github.com/nikumu/linkedin-clone)** - A clone of LinkedIn's Home Page using CSS.
+
+⭐ **Support My Work**
+
+If you enjoyed any of my projects or found them helpful, please consider giving a star on GitHub. It helps others discover my work and motivates me to keep creating! Thank you! ⭐
 
 ---
 
@@ -85,7 +90,7 @@ Here are a few of my projects:
   
 ⚡ **Github Stats**
 
-[![Nikumun's github stats](https://bad-apple-github-readme.vercel.app/api?username=nikumu&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Nikumu's github stats](https://bad-apple-github-readme.vercel.app/api?username=nikumu&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=nikumu&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
