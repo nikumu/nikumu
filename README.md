@@ -7,16 +7,16 @@
 <div align='left'>
 
 ### **Hi, devs** 👋
-  
-I am André Bianchi, a web developer with 2 years of experience. I have a passion for creating visually appealing and user-friendly websites. My skills include **HTML**, **CSS**, **JavaScript**, and various web development frameworks such as **React** and **Angular**. I am constantly learning and staying up to date with the latest web development technologies to improve my skills and deliver the best results for my clients. I am always looking for new challenges and opportunities to grow as a developer.
 
-🚀 I'm **Front end** Developer
+I’m **André Bianchi**, a front-end web developer with over 2 years of experience crafting dynamic and visually engaging websites. I specialize in creating intuitive, user-friendly interfaces using technologies like **HTML**, **CSS**, and **JavaScript**, as well as modern frameworks including **React** and **Angular**. My passion for clean, efficient code drives me to continuously learn and incorporate the latest advancements in web development.
 
-🌱 I’m interested in **compilers**, **programming paradigms** and **machine learning**
+🚀 **Front-End Developer** with a strong focus on performance and accessibility.
 
-📚 I’m currently learning **Java** and **PHP**
+🌱 I have a deep interest in **compilers**, **programming paradigms**, and **machine learning**, and I’m eager to explore how these fields intersect with web development.
 
-🎯 I’m looking to collaborate on fun projects
+📚 Currently expanding my expertise by learning **Java** and **PHP**, to diversify my development skillset.
+
+🎯 I’m excited to collaborate on creative and **challenging projects** that push the boundaries of web development.
 
 <br>
 
