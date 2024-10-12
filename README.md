@@ -91,6 +91,8 @@ Here are a few of my projects:
 
 [![Nikumu's current streak](https://streak-stats.demolab.com/?user=nikumu&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikumu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 </div>
