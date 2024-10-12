@@ -79,6 +79,8 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
   
 🖥️ **Wakatime Stats**
 
+</a><img src="https://www.svgrepo.com/show/354534/wakatime.svg" min-width="380px" max-width="200px" width="175px" align="right"></br>
+
 [![wakatime](https://wakatime.com/badge/user/b88bb920-40e6-4f06-8859-11e07f011583.svg)](https://wakatime.com/@b88bb920-40e6-4f06-8859-11e07f011583)
 
 [![nikumu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikumu&show_icons=true&theme=vue)](https://github.com/nikumu/github-readme-stats)
