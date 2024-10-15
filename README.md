@@ -55,8 +55,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 
 Here are a few of my projects:
 1. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
-2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme
-3. **[Linkedin clone](https://github.com/nikumu/linkedin-clone)** - A clone of LinkedIn's Home Page using CSS.
+2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
 
 <br>
 
