@@ -56,6 +56,8 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 Here are a few of my projects:
 1. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
 2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
+3. **[Stickers](https://github.com/commonlispbr/stickers)** - Collection of stickers about Lisp in general and as well Common Lisp.
+4. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
 
 <br>
 
