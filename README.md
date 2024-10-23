@@ -54,12 +54,14 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 </a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 Here are a few of my projects:
+
 1. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
 2. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
-3. **[Stickers](https://github.com/commonlispbr/stickers)** - Collection of stickers about Lisp in general and as well Common Lisp.
-4. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
-5. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
-
+3. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
+4. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
+5. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
+6. **[Stickers](https://github.com/commonlispbr/stickers)** - Collection of stickers about Lisp in general and as well Common Lisp.
+   
 <br>
 
 ### ⭐ **Support My Work**
