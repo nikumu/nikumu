@@ -21,21 +21,24 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <br>
 
 ### 📫 **How to reach me:**
-  
-<a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
-<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
-  
-<a title="X" href="https://x.com/foobarfighters">
-<img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
 
 <a title="LinkedIn" href="https://linkedin.com/in/nikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
 
+<a title="Mail" href="mailto:nikumu@engineer.com">
+<img height="28" width="28" src="https://cdn.simpleicons.org/maildotcom/4493f8" /></a>
+
+<a title="Vercel" href="https://portfolio-nikumu-projects.vercel.app/">
+<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/vercel/4493f8" /></a>
+  
+<a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
+<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
+
 <a title="Telegram" href="https://t.me/nekonikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/telegram/4493f8" /></a>
 
-<a title="Mail" href="mailto:nikumu@engineer.com">
-<img height="28" width="28" src="https://cdn.simpleicons.org/maildotcom/4493f8" /></a>
+<a title="X" href="https://x.com/foobarfighters">
+<img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
 
 <a title="Wakatime" href="https://wakatime.com/@nikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/wakatime/4493f8" /></a>
