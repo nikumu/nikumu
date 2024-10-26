@@ -60,11 +60,12 @@ Here are a few of my projects:
 
 1. **[Portifolio](https://github.com/nikumu/portfolio)** - My personal site.
 2. **[Muro das Lamentações](https://github.com/nikumu/muro-das-lamentacoes)** - Next.js project bootstrapped with create-next-app.
-3. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
-4. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
-5. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
-6. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
-7. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
+3. **[Made in Heaven](https://github.com/nikumu/made-in-heaven)** - Interactive web application that features a functional analog clock with some additional features.
+4. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
+5. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
+6. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
+7. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
+8. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
    
 <br>
 
