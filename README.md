@@ -59,7 +59,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 Here are a few of my projects:
 
 1. **[Portifolio](https://github.com/nikumu/portfolio)** - My personal site.
-2. **[Muro das Lamentações](https://github.com/nikumu/muro-das-lamentacoes)** Next.js project bootstrapped with create-next-app.
+2. **[Muro das Lamentações](https://github.com/nikumu/muro-das-lamentacoes)** - Next.js project bootstrapped with create-next-app.
 3. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
 4. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
 5. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
