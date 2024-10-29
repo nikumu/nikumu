@@ -61,11 +61,14 @@ Here are a few of my projects:
 1. **[Portifolio](https://github.com/nikumu/portfolio)** - My personal site.
 2. **[Muro das Lamentações](https://github.com/nikumu/muro-das-lamentacoes)** - Next.js project bootstrapped with create-next-app.
 3. **[Made in Heaven](https://github.com/nikumu/made-in-heaven)** - Interactive web application that features a functional analog clock with some additional features.
-4. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
-5. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell/)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
-6. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
-7. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
-8. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
+4. **[Freelas landing Page](https://github.com/nikumu/freelas-landing-page)** - A modern, responsive landing page for a freelance platform.
+5. **[javascript Quiz](https://github.com/nikumu/javascript-quiz)** - An interactive quiz website to test JavaScript knowledge.
+6. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
+7. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
+8. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
+9. **[Linkedin Clone](https://github.com/nikumu/linkedin-clone)** - A simplified clone of the LinkedIn interface, built with HTML, CSS, and JavaScript.
+10. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
+11. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
    
 <br>
 
