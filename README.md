@@ -67,8 +67,6 @@ Here are a few of my projects:
 7. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
 8. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
 9. **[Linkedin Clone](https://github.com/nikumu/linkedin-clone)** - A simplified clone of the LinkedIn interface, built with HTML, CSS, and JavaScript.
-10. **[Awesome Esolangs](https://github.com/nikumu/awesome-esolangs)** - Curated list of awesome esoteric programming languages and resources.
-11. **[A linguagem Scheme](https://github.com/nikumu/scheme-primeiros-passos)** - This project is aimed at beginners who want to learn the functional programming language Scheme.
    
 <br>
 
