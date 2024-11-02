@@ -43,12 +43,6 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <a title="Wakatime" href="https://wakatime.com/@nikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/wakatime/4493f8" /></a>
 
-<a title="DEV Community" href="https://dev.to/nikumu">
-<img height="28" width="28" src="https://cdn.simpleicons.org/devdotto/4493f8" /></a>
-
-<a title="HackerRank" href="https://www.hackerrank.com/profile/Nikumu">
-<img height="28" width="28" src="https://cdn.simpleicons.org/hackerrank/4493f8" /></a>
-
 <br>
 <br>
 
