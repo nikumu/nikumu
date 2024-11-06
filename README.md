@@ -40,9 +40,6 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <a title="X" href="https://x.com/foobarfighters">
 <img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
 
-<a title="Wakatime" href="https://wakatime.com/@nikumu">
-<img height="28" width="28" src="https://cdn.simpleicons.org/wakatime/4493f8" /></a>
-
 <br>
 <br>
 
