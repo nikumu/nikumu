@@ -22,7 +22,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 
 ### 📫 **How to reach me:**
 
-<a title="LinkedIn" href="https://linkedin.com/in/nikumu">
+<a title="LinkedIn" href="https://linkedin.com/in/andrebbianchi">
 <img height="28" width="28" src="https://cdn.simpleicons.org/linkedin/4493f8" /></a>
 
 <a title="Mail" href="mailto:nikumu@engineer.com">
