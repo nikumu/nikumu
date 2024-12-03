@@ -88,6 +88,6 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 
 ### 🧰 **Languages and Tools**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,typescript,react,nodejs,mongodb,laravel,git,github,linux,vscode,java,py,codepen,md" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,typescript,react,nodejs,mongodb,laravel,git,github,linux,vscode,java,py,codepen,md,express"/>
 
 </div> 
