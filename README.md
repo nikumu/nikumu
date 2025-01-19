@@ -38,7 +38,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <img height="28" width="28" src="https://cdn.simpleicons.org/telegram/4493f8" /></a>
 
 <a title="X" href="https://x.com/foobarfighters">
-<img height="28" width="28" src="https://cdn.simpleicons.org/x/4493f8" /></a>
+<img height="28" width="28" src="https://cdn.simpleicons.org/twitter/4493f8" /></a>
 
 <br>
 <br>
