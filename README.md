@@ -28,7 +28,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <a title="Mail" href="mailto:nikumu@engineer.com">
 <img height="28" width="28" src="https://cdn.simpleicons.org/maildotcom/4493f8" /></a>
 
-<a title="Vercel" href="https://portfolio-nikumu-projects.vercel.app/">
+<a title="Vercel" href="https://nikumu.github.io/portfolio//">
 <img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/vercel/4493f8" /></a>
   
 <a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
