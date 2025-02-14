@@ -23,19 +23,24 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 ### 📫 **How to reach me:**
 
 <a title="LinkedIn" href="https://linkedin.com/in/andrebbianchi">
-<img height="28" width="28" src="<box-icon type='logo' name='linkedin'></box-icon>" /></a>
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+</a>
 
 <a title="Mail" href="mailto:nikumu@engineer.com">
-<img height="28" width="28" src="https://cdn.simpleicons.org/maildotcom/4493f8" /></a>
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail">
+</a>
 
-<a title="Vercel" href="https://nikumu.github.io/portfolio//">
-<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/vercel/4493f8" /></a>
-  
+<a title="Vercel" href="https://nikumu.github.io/portfolio/">
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Vercel">
+</a>
+
 <a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
-<img height="28" width="28" style="color:red;" src="https://cdn.simpleicons.org/bluesky/4493f8" /></a>
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="Bluesky">
+</a>
 
 <a title="Telegram" href="https://t.me/nekonikumu">
-<img height="28" width="28" src="https://cdn.simpleicons.org/telegram/4493f8" /></a>
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
+</a>
 
 <br>
 <br>
