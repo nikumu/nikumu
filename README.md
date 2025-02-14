@@ -30,8 +30,8 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
   <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail">
 </a>
 
-<a title="Vercel" href="https://nikumu.github.io/portfolio/">
-  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Vercel">
+<a title="Portfolio" href="https://nikumu.github.io/portfolio/">
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio">
 </a>
 
 <a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
@@ -41,6 +41,11 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <a title="Telegram" href="https://t.me/nekonikumu">
   <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
 </a>
+
+<a title="X (Twitter)" href="https://twitter.com/foobarfighters">
+  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X (Twitter)">
+</a>
+
 
 <br>
 <br>
