@@ -37,27 +37,11 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 <a title="Telegram" href="https://t.me/nekonikumu">
 <img height="28" width="28" src="https://cdn.simpleicons.org/telegram/4493f8" /></a>
 
-<a title="X" href="https://x.com/foobarfighters">
-<img height="28" width="28" src="https://cdn.simpleicons.org/twitter/4493f8" /></a>
-
 <br>
 <br>
-
-### 💡 **Projects**
 
 </a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-Here are a few of my projects:
-
-1. **[Muro das Lamentações](https://github.com/nikumu/muro-das-lamentacoes)** - Next.js project bootstrapped with create-next-app.
-2. **[Made in Heaven](https://github.com/nikumu/made-in-heaven)** - Interactive web application that features a functional analog clock with some additional features.
-3. **[Freelas Landing Page](https://github.com/nikumu/freelas-landing-page)** - A modern, responsive landing page for a freelance platform.
-4. **[javascript Quiz](https://github.com/nikumu/javascript-quiz)** - An interactive quiz website to test JavaScript knowledge.
-5. **[30 Days of JS](https://github.com/nikumu/30-days-of-js)** - A collection of projects created during the 30 Days of Code challenge.
-6. **[The Final Brain Cell](https://github.com/nikumu/the-final-brain-cell)** - Game based on a guessing system, where the player has a limited number of attempts to guess a random number.
-7. **[Github User Info](https://github.com/nikumu/github-user-info)** - The project retrieves and presents detailed information about any GitHub user using the GitHub API.
-8. **[Linkedin Clone](https://github.com/nikumu/linkedin-clone)** - A simplified clone of the LinkedIn interface, built with HTML, CSS, and JavaScript.
-   
 <br>
 
 ### ⭐ **Support My Work**
