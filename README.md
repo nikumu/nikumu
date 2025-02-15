@@ -78,6 +78,10 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 
 <br>
 
+</a><img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26710%26project%3D%26in=0" min-width="300px" max-width="300px" width="300px" align="center"> 
+
+<br>
+
 ### 🧰 **Languages and Tools**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,typescript,react,nodejs,mongodb,laravel,git,github,linux,vscode,java,py,codepen,md,express"/>
