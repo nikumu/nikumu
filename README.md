@@ -1,9 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96DED1&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Present+Day...;Present+Time!)](https://git.io/typing-svg)
-
-&nbsp;
-
 <div align='left'>
 
 ### **Hi, devs** 👋
@@ -32,10 +26,6 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
 
 <a title="Portfolio" href="https://nikumu.github.io/portfolio/">
   <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio">
-</a>
-
-<a title="Bluesky" href="https://bsky.app/profile/nikumu.com">
-  <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="Bluesky">
 </a>
 
 <a title="Telegram" href="https://t.me/nekonikumu">
