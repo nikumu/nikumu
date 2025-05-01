@@ -25,7 +25,7 @@ I’m **André Bianchi**, a front-end web developer with over 2 years of experie
   <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio">
 </a>
 &nbsp;
-<a title="Telegram" href="https://t.me/nekonikumu">
+<a title="Telegram" href="https://t.me/nikumu1989">
   <img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
 </a>
 &nbsp;
